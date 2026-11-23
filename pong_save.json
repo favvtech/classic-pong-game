@@ -1,0 +1,29 @@
+{
+    "version": "1.0",
+    "p1_score": 4,
+    "p2_score": 2,
+    "paused": false,
+    "game_over": false,
+    "winner": 0,
+    "paddle_left": {
+        "pos_x": 45.0,
+        "pos_y": 305.0,
+        "velocity_y": 0.0,
+        "up_pressed": false,
+        "down_pressed": false
+    },
+    "paddle_right": {
+        "pos_x": 755.0,
+        "pos_y": 305.0,
+        "velocity_y": 0.0,
+        "up_pressed": false,
+        "down_pressed": false
+    },
+    "ball": {
+        "pos_x": 400.0,
+        "pos_y": 305.0,
+        "velocity_x": 5.638155724715451,
+        "velocity_y": 2.0521208599540124,
+        "speed": 6.0
+    }
+}

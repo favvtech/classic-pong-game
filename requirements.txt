@@ -1,0 +1,3 @@
+# Dependencies
+# pygame-ce is a drop-in, modern community edition of pygame compatible with Python 3.8 - 3.14+
+pygame-ce>=2.5.0
